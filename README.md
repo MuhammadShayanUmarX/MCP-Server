@@ -1,6 +1,11 @@
 # Todo App - FastAPI to MCP Conversion
 
 This project demonstrates how to create a FastAPI todo application and convert it to an MCP (Model Context Protocol) server.
+![ss 1](https://github.com/user-attachments/assets/d95be02f-4dde-47b6-8bd2-af5e32aef31c)
+![ss 2](https://github.com/user-attachments/assets/6090152b-f169-4118-a29c-66e543567ab8)
+![ss 3](https://github.com/user-attachments/assets/a19ced0a-7431-469c-a6c4-affdae4ca4bb)
+![ss 4](https://github.com/user-attachments/assets/b04df19c-d43e-43f7-859d-40f9219ba32f)
+
 
 ## Project Structure
 
